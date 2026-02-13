@@ -19,26 +19,6 @@ This project demonstrates:
 - Standard net/http
 - JSON encoding/decoding
 
----
-
-## 📂 Project Structure
-
-go-user-api/
-│
-├── cmd/
-│ └── main.go # Application entry point
-│
-├── internal/
-│ ├── handler/ # HTTP layer
-│ ├── service/ # Business logic
-│ └── model/ # Data structures
-│
-├── go.mod
-└── README.md
-
-
-
----
 
 ## ⚙️ Setup & Run
 
