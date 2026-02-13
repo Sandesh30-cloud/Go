@@ -50,7 +50,7 @@ curl -X POST http://localhost:8080/users \
 {
   "id": 1,
   "name": "Sandesh",
-  "age": 23
+  "age": 22
 }
 ```
 
